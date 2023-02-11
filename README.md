@@ -4,11 +4,12 @@ View the Proyect on Github
 
 # Listado de gatitos listo para adopción
 
-# Imagenes 
-![Hera gatita de 2 años](C:\Users\ASUS\Pictures\Mis mascotas.jpg)
+# Imagenes de los gatitos
+![Hera gatita de 2 años](C:\Users\ASUS\Pictures\Mis mascotas\IMG_20210425_204426.jpg)
 ![Idara gatita de 1 año](/ruta/a/la/imagen.jpg)
 ![Kaguya gatita de 11 años](/ruta/a/la/imagen.jpg)
 ![Nina gatita de 10 años](/ruta/a/la/imagen.jpg)
+![Frozen gatita de 5 años](/ruta/a/la/imagen.jpg)
 
 Encabezados 
 # Encabezado 1
@@ -24,13 +25,6 @@ Tablas
 | Texto   | Texto    |
 | Texto   | Texto    |
 
-# Resultados electorales 
-
-## Imágenes de los candidatos
-### Aquiles Alvarez
-![Aquiles Alvarez](/ruta/a/la/imagen.jpg)
-### Cinthia Viteri
-*![Cinthia Viteri](/ruta/a/la/imagen.jpg)
 
 ## Resultados 
 
