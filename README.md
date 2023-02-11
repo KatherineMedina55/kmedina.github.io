@@ -19,10 +19,8 @@ Encabezados
 ##### Encabezado 5
 ###### Encabezado 
 
-Tablas 
-| Gatitos  | adopción |
-| responsable | un |
-| mundo  | mejor  |
+
+| Gatitos  | adopción | responsable | un | mundo  | mejor |
 
 
 
