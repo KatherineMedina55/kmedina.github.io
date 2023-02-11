@@ -20,16 +20,11 @@ Encabezados
 ###### Encabezado 
 
 Tablas 
-| Título  | Título   |
-| ------- | -------- |
-| Texto   | Texto    |
-| Texto   | Texto    |
+| Gatitos  | adopción |
+| responsable | un |
+| mundo  | mejor    |
 
 
-## Resultados 
 
-Tablas 
-| Candidato | Votos   |
-| ------- | -------- |
-| Aquiles Alvarez  | 551, 996   |
-| Cinthia Viteri   | 420, 208   |
+View the Proyect on Github 
+Hosted on GitHub Pages — Theme by orderedlist
