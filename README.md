@@ -1,6 +1,6 @@
 # Adopción de Gatitos
 
-View the Proyect on Github 
+View the Proyect on Github kmedina.github.io
 
 # Listado de gatitos listo para adopción
 
@@ -22,9 +22,9 @@ Encabezados
 Tablas 
 | Gatitos  | adopción |
 | responsable | un |
-| mundo  | mejor    |
+| mundo  | mejor  |
 
 
 
-View the Proyect on Github 
+View the Proyect on Github KatherineMedina55
 Hosted on GitHub Pages — Theme by orderedlist
