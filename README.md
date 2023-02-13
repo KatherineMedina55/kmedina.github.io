@@ -1,8 +1,8 @@
 # Adopción de Gatitos
 
-# Listado de gatitos para adopción
+## Listado de gatitos para adopción
 
-# Imagenes de los gatitos
+### Imagenes de los gatitos
 
 
 | Hera gatita de 2 años ![Hera gatita de 2 años](IMG_20210425_204426.jpg) | Idara gatita de 1 año ![Idara gatita de 1 año](IMG_20220706_231213.jpg) | 
