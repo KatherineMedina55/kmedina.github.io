@@ -1,7 +1,5 @@
 # Adopción de Gatitos
 
-View the Proyect on Github kmedina.github.io
-
 # Listado de gatitos para adopción
 
 # Imagenes de los gatitos
@@ -13,7 +11,3 @@ View the Proyect on Github kmedina.github.io
 
 
 # Adopción responsable, cambiemos el mundo de ellos...
-
-
-View the Proyect on Github KatherineMedina55
-Hosted on GitHub Pages — Theme by orderedlist
